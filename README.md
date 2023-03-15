@@ -5,9 +5,7 @@ A simple Web Application for reate an application that an employee can use to ge
 
 Getting Started:
 
-Simply open up the deployed link xxxxxx and explore the website:
-
-Xxxxxx
+Simply open up the deployed link https://kelenyathi.github.io/Random-Password-Generator/ and explore the website
 
 Application deployed at live URL.
 
